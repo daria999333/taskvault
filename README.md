@@ -25,10 +25,10 @@ A lightweight and efficient CLI-based task manager built with Python and SQLite.
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/taskvault.git](https://github.com/your-username/taskvault.git)
+   
+   git clone [https://github.com/daria999333/taskvault.git](https://github.com/daria999333/taskvault.git)
    cd taskvault
-   ```
+   
 
 2. Create and activate a virtual environment:
    ```bash

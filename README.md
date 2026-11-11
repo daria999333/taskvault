@@ -1,5 +1,10 @@
 # TaskVault 📋
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python&logoColor=white)
+![Typer](https://img.shields.io/badge/Typer-CLI-green?style=flat-square)
+![Pytest](https://img.shields.io/badge/Tests-Passing-brightgreen?style=flat-square&logo=pytest&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
+
 A lightweight and efficient CLI-based task manager built with Python and SQLite. `TaskVault` helps you track daily tasks, assign priorities, and manage completion status directly from your terminal with persistent local storage.
 
 ## Features
